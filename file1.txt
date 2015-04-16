@@ -1,0 +1,28 @@
+13
+A
+B
+C
+D
+E
+F
+G
+R
+S
+T
+U
+V
+W
+13
+A holds R
+D holds U
+E holds T
+F holds W
+G holds V
+A wants S
+B wants T
+C wants S
+D wants S
+D wants T
+E wants V
+F wants S
+G wants U
