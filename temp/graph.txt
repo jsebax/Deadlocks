@@ -1,0 +1,19 @@
+digraph G { S [shape=box];
+A [shape=circle];
+S -> A;
+U [shape=box];
+A [shape=circle];
+U -> A;
+R [shape=box];
+B [shape=circle];
+R -> B;
+T [shape=box];
+C [shape=circle];
+T -> C;
+A [shape=circle];
+R [shape=box];
+A -> R;
+B [shape=circle];
+T [shape=box];
+B -> T;
+}
